@@ -23,9 +23,6 @@
   <div class="face bottom"></div>
 </div>
 <section>
-  <div>
-    <p id='arrow'>&raquo;</p>
- </div>
 </section>
 </svg>
 
@@ -43,7 +40,7 @@
 
   <footer>
 <center><img src="https://i.ibb.co/SVkrLNP/lani-rainbow.gif" alt="lani-rainbow" hieght="300px" width="300px" frameborder="0"></a><br><br>
-<a href="mailto:lanikrewson@gmail.com" align="right" style="color:rgb(249, 250, 251)"><b>@8 Bit Lass</b></a>&nbsp; &nbsp; &nbsp;<a href="https://github.com/MoodyLass/8BitLass/edit/main/README.md)https://github.com/MoodyLass/8BitLass/edit/main/README.md">Source code</a>
+<a href="mailto:lanikrewson@gmail.com" align="right" style="color:rgb(249, 250, 251)"><b>@8 Bit Lass</b></a>&nbsp; &nbsp; &nbsp;<a href="https://github.com/MoodyLass/8BitLass/edit/main/README.md)https://github.com/MoodyLass/8BitLass/">Source code</a>
   </footer>
 </section>
 </html>
