@@ -22,3 +22,6 @@
 #### External style.css
 
      <link rel="stylesheet" href="./style.css">
+#### <a href="https://pub-73a196344cc74d949784d7dcc11de3c1.r2.dev/8-bit-Lass/index.html">Kettle URL</a>
+
+      https://pub-73a196344cc74d949784d7dcc11de3c1.r2.dev/8-bit-Lass/index.html
