@@ -11,5 +11,5 @@
     
     frameborder="0" scrolling="no"> </iframe>
 
- Set width: and height: attributes to meet requirements open and close with <iframe tags.
+ Set width: and height: attributes to meet requirements open and close with <iframe tags use < div > to keep seperate from other inline css
     
