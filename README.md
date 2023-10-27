@@ -17,5 +17,8 @@
 
  #### PDF on click
  
-     <a href="Name_of_file.pdf">Source code</a>
-  
+    <a href="Name_of_file.pdf">Source code</a>
+     
+#### External style.css
+
+     <link rel="stylesheet" href="./style.css">
